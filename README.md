@@ -29,6 +29,7 @@ Rushi Modi
 Email: rushi.modi9@gmail.com
 GitHub: @rushimodi10
 Twitter: @Rushi13234661
+
 ⭐️ Don't forget to give this project a star if you found it useful! ⭐️
 
 Thank you for checking out my Netflix SignIn Page Clone! Happy coding! 🎉
