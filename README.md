@@ -30,7 +30,7 @@ Rushi Modi
 
 Email: rushi.modi9@gmail.com
 
-GitHub: @rushimodi10
+GitHub: rushimodi10
 
 Twitter: @Rushi13234661
 
